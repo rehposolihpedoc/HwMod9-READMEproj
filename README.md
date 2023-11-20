@@ -1,6 +1,6 @@
 # README GENERATOR PROJECT (Inquirer)
 ## Description
-This Node.lj project was inspired by a need for generating a high quality README in a way that was simple, organized and easy to generate.
+This Node.lj project was inspired by a need for generating a high quality README in a way that simple, organized, replicable and easy to generate.
 
 ## Table of Contents
 - [Installation](#installation)
